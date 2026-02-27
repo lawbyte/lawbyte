@@ -41,7 +41,6 @@ My work includes:
 - Advanced web, API, and mobile penetration testing
 - Chained exploitation & realistic adversary simulation
 - Active Directory & infrastructure compromise scenarios
-- SCADA / OT attack surface evaluation
 - Custom exploit tooling & research-driven attack methodologies
 - Delivering executive-level risk reporting with technical depth
 
