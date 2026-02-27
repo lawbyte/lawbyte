@@ -58,7 +58,7 @@ Competing at international scale, simulating real industrial systems and enterpr
 - Security Bypass Techniques  
 
 ### Tooling
-`Python` `Frida` `IDA Pro` `Ghidra` `Burp Suite` `Metasploit` `BloodHound` `Wireshark` `Docker`
+`Python` `Frida` `IDA Pro` `Ghidra` `Burp Suite` `Metasploit` `BloodHound` `Wireshark` `Docker`, `etc...`
 
 ---
 
