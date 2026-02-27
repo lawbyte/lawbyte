@@ -54,9 +54,9 @@ I operate at the intersection of offensive research and enterprise defense — h
 - 🥇 **1st Place — Standoff 16 (Real-World SCADA Cyber Battle)** – r3kapig  
 - 🏆 **6th Place — Black Hat MEA 2025** – PETIR  
 - 🏁 **Finalist (12th) — Black Hat MEA 2024** – PETIR  
-- 🌏 **1st Place — Cyber Jawara International 2024** - Vantage Point
+- 🌏 **1st Place — Cyber Jawara International 2024**
 - 🥇 **1st Place — CTF - GEMASTIK 2025** – PETIR
-- 💼 **HTB Business CTF 2024** – 13/943 Companies (1st SEA, 3rd APAC)
+- 💼 **HTB Business CTF 2024** – 13/943 Companies (1st SEA, 3rd APAC) - Vantage Point
 
 Competing at international scale, simulating real industrial systems and enterprise environments.
 
