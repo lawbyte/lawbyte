@@ -30,6 +30,28 @@ I operate at the intersection of real-world adversarial simulation, exploit deve
 
 ---
 
+## 🏢 Current Role
+
+### Security Consultant — Vantage Point Security
+
+At **Vantage Point Security**, I conduct enterprise-grade offensive security assessments for high-profile organizations, particularly within the financial sector.
+
+My work includes:
+
+- Advanced web, API, and mobile penetration testing
+- Chained exploitation & realistic adversary simulation
+- Active Directory & infrastructure compromise scenarios
+- SCADA / OT attack surface evaluation
+- Custom exploit tooling & research-driven attack methodologies
+- Delivering executive-level risk reporting with technical depth
+
+I operate at the intersection of offensive research and enterprise defense — helping organizations identify critical weaknesses before real attackers do.
+
+---
+
+
+---
+
 ## 🏆 Competitive Highlights
 
 - 🥇 **1st Place — Standoff 16 (Real-World SCADA Cyber Battle)** – r3kapig  
