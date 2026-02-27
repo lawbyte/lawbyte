@@ -1,5 +1,5 @@
 <h1 align="center">Azka Ainul Ma’arij</h1>
-<h3 align="center">Offensive Security Engineer | STANDOFF 16 Cyber Battle Champion | Mobile Security Specialist</h3>
+<h3 align="center">Offensive Security Engineer | Security Consultant | Mobile Security Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/lawbyte">
