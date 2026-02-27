@@ -47,8 +47,6 @@ My work includes:
 
 I operate at the intersection of offensive research and enterprise defense — helping organizations identify critical weaknesses before real attackers do.
 
----
-
 
 ---
 
