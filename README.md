@@ -1,5 +1,5 @@
 <h1 align="center">Azka Ainul Ma’arij</h1>
-<h3 align="center">Offensive Security Engineer | Security Consultant | Mobile Security Specialist</h3>
+<h3 align="center">Offensive Security Engineer | Senior Security Consultant | Mobile Security Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/lawbyte">
@@ -32,7 +32,7 @@ I operate at the intersection of real-world adversarial simulation, exploit deve
 
 ## 🏢 Current Role
 
-### Security Consultant — Vantage Point Security
+### Senior Security Consultant — Vantage Point Security
 
 At **Vantage Point Security**, I conduct enterprise-grade offensive security assessments for high-profile organizations, particularly within the financial sector.
 
