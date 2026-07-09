@@ -6,8 +6,8 @@
   <a href="https://github.com/lawbyte">
     <img src="https://img.shields.io/github/followers/lawbyte?label=Followers&style=social" />
   </a>
-  <a href="https://app.hackthebox.com/profile/538189">
-    <img src="https://img.shields.io/badge/HackTheBox-Elite-green?style=flat&logo=hackthebox" />
+  <a href="https://app.hackthebox.com/public/users/538189">
+    <img src="https://img.shields.io/badge/HackTheBox-Grandmaster-green?style=flat&logo=hackthebox" />
   </a>
   <a href="https://linkedin.com/in/lawbyte">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin" />
@@ -128,7 +128,7 @@ Focus areas:
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/lawbyte  
-- 🧠 HackTheBox: https://app.hackthebox.com/profile/538189  
+- 🧠 HackTheBox: https://app.hackthebox.com/public/users/538189
 
 ---
 
