@@ -1,14 +1,11 @@
 <div align="center">
+  <img src="banner.svg" alt="Azka Ainul Ma'arij — Offensive Security Engineer" width="100%">
 
-# Azka Ainul Ma'arij
+  <br><br>
 
-**Offensive Security Engineer** · Vantage Point Security
-Mobile Security Challenge Author, Hack The Box
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lawbyte-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawbyte)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Grandmaster-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/538189)
-[![GitHub followers](https://img.shields.io/github/followers/lawbyte?style=flat-square&label=Followers&color=181717&logo=github&logoColor=white)](https://github.com/lawbyte)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-lawbyte-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawbyte)
+  [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Grandmaster-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/538189)
+  [![GitHub followers](https://img.shields.io/github/followers/lawbyte?style=flat-square&label=Followers&color=181717&logo=github&logoColor=white)](https://github.com/lawbyte)
 </div>
 
 <br>
