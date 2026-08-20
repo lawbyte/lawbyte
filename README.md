@@ -1,137 +1,49 @@
-<h1 align="center">Azka Ainul Ma’arij</h1>
-<h3 align="center">Offensive Security Engineer | Senior Security Consultant | Mobile Security Specialist</h3>
-<h3 align="center">Security with Vantage Point | CTF with r3kapig, SKSD, PETIR</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/lawbyte">
-    <img src="https://img.shields.io/github/followers/lawbyte?label=Followers&style=social" />
-  </a>
-  <a href="https://app.hackthebox.com/public/users/538189">
-    <img src="https://img.shields.io/badge/HackTheBox-Grandmaster-green?style=flat&logo=hackthebox" />
-  </a>
-  <a href="https://linkedin.com/in/lawbyte">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin" />
-  </a>
-</p>
+# Azka Ainul Ma'arij
 
----
+**Offensive Security Engineer** · Vantage Point Security
+Mobile Security Challenge Author, Hack The Box
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lawbyte-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawbyte)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Grandmaster-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/538189)
+[![GitHub followers](https://img.shields.io/github/followers/lawbyte?style=flat-square&label=Followers&color=181717&logo=github&logoColor=white)](https://github.com/lawbyte)
 
-I am an Offensive Security Consultant specializing in advanced penetration testing across:
+</div>
 
-- 🌐 Web Applications  
-- 📱 Mobile (Android & iOS)  
-- 🔌 APIs (REST & GraphQL)  
-- 🏦 Financial Infrastructure  
-- 🏭 SCADA / OT Environments  
-- 🧠 Active Directory & Red Teaming  
+<br>
 
-I operate at the intersection of real-world adversarial simulation, exploit development, and deep technical research.
+I break into web apps, mobile apps, APIs, Active Directory, and industrial control systems for a living — then write the report that gets them fixed. Based in Indonesia, working mostly across financial-sector and enterprise engagements.
 
----
+### Currently
 
-## 🏢 Current Role
+- **Senior Security Consultant** at Vantage Point Security — web, API, and mobile penetration testing, adversary simulation, and Active Directory compromise chains for enterprise and financial-sector clients, backed by custom exploit tooling when off-the-shelf doesn't cut it.
+- **Mobile challenge author** for Hack The Box, building production-grade Android reverse-engineering and exploitation challenges.
+- Organizer for **Hack The Box Indonesia**; competes internationally with **r3kapig**, **SKSD**, and **PETIR**; occasional speaker and trainer in offensive security.
 
-### Senior Security Consultant — Vantage Point Security
+### Notable results
 
-At **Vantage Point Security**, I conduct enterprise-grade offensive security assessments for high-profile organizations, particularly within the financial sector.
+| Result | Event | Team |
+|:---|:---|:---|
+| 🥇 1st | Standoff 16 — real-world SCADA cyber battle | r3kapig |
+| 🥇 1st | Cyber Jawara International 2024 | — |
+| 6th | Black Hat MEA 2025 | PETIR |
+| 12th, finalist | Black Hat MEA 2024 | PETIR |
+| 2nd | GEMASTIK 2025 | PETIR |
+| 13 / 943 companies — 1st SEA, 3rd APAC | HTB Business CTF 2024 | Vantage Point |
 
-My work includes:
+### Focus
 
-- Advanced web, API, and mobile penetration testing
-- Chained exploitation & realistic adversary simulation
-- Active Directory & infrastructure compromise scenarios
-- Custom exploit tooling & research-driven attack methodologies
-- Delivering executive-level risk reporting with technical depth
+**Offense** — web & API exploitation, Android reverse engineering and dynamic instrumentation, mobile app security (MASVS-aligned), SCADA / OT attack simulation, Active Directory abuse and post-exploitation.
 
-I operate at the intersection of offensive research and enterprise defense — helping organizations identify critical weaknesses before real attackers do.
+**Research** — binary reverse engineering, custom exploit development, cryptographic analysis, security bypass techniques.
 
+**Toolbox** — Python · Frida · IDA Pro · Ghidra · Burp Suite · Metasploit · BloodHound · Wireshark · Docker
 
----
+### Certifications
 
-## 🏆 Competitive Highlights
+OSCP+ · CREST CRT · CREST CPSA · Burp Suite Certified Practitioner · CXMAP · CAPT
 
-- 🥇 **1st Place — Standoff 16 (Real-World SCADA Cyber Battle)** – r3kapig  
-- 🏆 **6th Place — Black Hat MEA 2025** – PETIR  
-- 🏁 **Finalist (12th) — Black Hat MEA 2024** – PETIR  
-- 🌏 **1st Place — Cyber Jawara International 2024**
-- 🥇 **2nd Place — CTF - GEMASTIK 2025** – PETIR
-- 💼 **HTB Business CTF 2024** – 13/943 Companies (1st SEA, 3rd APAC) - Vantage Point
+### Elsewhere
 
-Competing at international scale, simulating real industrial systems and enterprise environments.
-
----
-
-## 🛠️ Professional Focus
-
-### Offensive Security
-- Advanced Web & API Exploitation  
-- Android Reverse Engineering & Dynamic Instrumentation  
-- Mobile App Security (OWASP MASVS aligned)  
-- SCADA / Industrial System Attack Simulation  
-- Active Directory Abuse & Post-Exploitation  
-
-### Research & Exploit Engineering
-- Binary Reverse Engineering  
-- Custom Exploit Development  
-- Cryptographic Analysis  
-- Security Bypass Techniques  
-
-### Tooling
-`Python` `Frida` `IDA Pro` `Ghidra` `Burp Suite` `Metasploit` `BloodHound` `Wireshark` `Docker`, `etc...`
-
----
-
-## 📱 Hack The Box — Mobile Challenge Author
-
-I work part-time with **Hack The Box** designing realistic, production-grade **mobile security challenges**.
-
-Focus areas:
-- Android exploitation
-- Reverse engineering
-- Bypass techniques
-- Real-world adversarial simulations
-- Advanced mobile attack chains
-
----
-
-## 📜 Certifications
-
-- OSCP+
-- CREST CRT
-- CREST CPSA
-- Burp Suite Certified Practitioner
-- Certified eXpert Mobile Application Pentester (CXMAP)
-- Certified Android Penetration Tester (CAPT)
-
----
-
-## 🌍 Community & Leadership
-
-- Organizer — Hack The Box Indonesia
-- International competitor — r3kapig
-- University team member — PETIR
-- Speaker & Trainer in offensive cybersecurity events
-
----
-
-## ⚡ Current Interests
-
-- Advanced mobile exploitation research  
-- SCADA / OT offensive simulations  
-- CTF infrastructure & challenge development  
-- Offensive automation tooling  
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/lawbyte  
-- 🧠 HackTheBox: https://app.hackthebox.com/public/users/538189
-
----
-
-<p align="center">
-  <i>"Offense drives defense. Adversarial thinking builds resilient systems."</i>
-</p>
+[LinkedIn](https://linkedin.com/in/lawbyte) · [Hack The Box](https://app.hackthebox.com/public/users/538189)
