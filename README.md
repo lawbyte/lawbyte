@@ -4,13 +4,13 @@
   <br><br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-lawbyte-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawbyte)
-  [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Grandmaster-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/538189)
+  [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-lawbyte-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/538189)
   [![GitHub followers](https://img.shields.io/github/followers/lawbyte?style=flat-square&label=Followers&color=181717&logo=github&logoColor=white)](https://github.com/lawbyte)
 </div>
 
 <br>
 
-I break into web apps, mobile apps, APIs, Active Directory, and industrial control systems for a living, then write the report that gets them fixed. Based in Indonesia, working mostly across financial-sector and enterprise engagements.
+I break into web apps, mobile apps, APIs, Active Directory, and industrial control systems for a living, then write the report that gets them fixed. Based in Singapore, working mostly across financial-sector and enterprise engagements.
 
 ### Currently
 
