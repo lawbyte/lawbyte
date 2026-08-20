@@ -1,0 +1,66 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Azka Ainul Ma'arij</title>
+  <desc id="desc">Offensive Security Engineer, Vantage Point Security</desc>
+
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+    <clipPath id="card">
+      <rect x="0.5" y="0.5" width="1199" height="259" rx="10"/>
+    </clipPath>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="55%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect x="0.5" y="0.5" width="1199" height="259" rx="10" fill="#0d1117"/>
+    <rect x="0.5" y="0.5" width="1199" height="259" rx="10" fill="url(#dots)"/>
+
+    <!-- attack-graph motif, right side -->
+    <g stroke="#9FEF00" stroke-width="1" opacity="0.28">
+      <line x1="838" y1="72" x2="906" y2="108"/>
+      <line x1="906" y1="108" x2="962" y2="58"/>
+      <line x1="906" y1="108" x2="884" y2="168"/>
+      <line x1="884" y1="168" x2="946" y2="204"/>
+      <line x1="884" y1="168" x2="826" y2="198"/>
+      <line x1="946" y1="204" x2="1016" y2="182"/>
+      <line x1="962" y1="58" x2="1038" y2="90"/>
+      <line x1="1038" y1="90" x2="1016" y2="182"/>
+      <line x1="1038" y1="90" x2="1104" y2="66"/>
+      <line x1="1016" y1="182" x2="1092" y2="204"/>
+    </g>
+    <g fill="#9FEF00">
+      <circle cx="838" cy="72" r="3" opacity="0.55"/>
+      <circle cx="962" cy="58" r="3" opacity="0.55"/>
+      <circle cx="826" cy="198" r="3" opacity="0.55"/>
+      <circle cx="1016" cy="182" r="3" opacity="0.55"/>
+      <circle cx="1038" cy="90" r="3" opacity="0.55"/>
+      <circle cx="1104" cy="66" r="3" opacity="0.55"/>
+      <circle cx="1092" cy="204" r="3" opacity="0.55"/>
+      <circle cx="946" cy="204" r="3" opacity="0.55"/>
+      <!-- compromised root node -->
+      <circle cx="906" cy="108" r="5.5" opacity="0.95"/>
+      <circle cx="906" cy="108" r="10" fill="none" stroke="#9FEF00" stroke-width="1" opacity="0.4"/>
+      <circle cx="884" cy="168" r="4.5" opacity="0.8"/>
+    </g>
+
+    <rect x="700" y="0" width="500" height="260" fill="url(#fade)"/>
+
+    <!-- text -->
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <text x="60" y="58" font-size="14" letter-spacing="3" fill="#9FEF00" font-weight="600">OFFENSIVE SECURITY ENGINEER</text>
+      <text x="60" y="212" font-size="15" fill="#7ee787">&gt; web · mobile · api · active directory · scada<tspan fill="#7ee787">&#160;█<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;0.9;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+    </g>
+
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <text x="58" y="112" font-size="44" font-weight="700" fill="#f0f6fc">Azka Ainul Ma'arij</text>
+      <text x="60" y="152" font-size="17" fill="#8b949e">Senior Security Consultant — Vantage Point Security</text>
+      <text x="60" y="176" font-size="17" fill="#8b949e">Mobile Security Challenge Author, Hack The Box</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
+</svg>
